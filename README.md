@@ -25,11 +25,13 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&#160;&#160;
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
-### Solved.ac
+### Solved.ac ( BaekJoon code )
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gksxorb147)](https://solved.ac/gksxorb147/)
 
+### Github
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaegyuHan&hide=jupyter%20notebook&layout=compact&theme=dark"/>
+<p align="left" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaegyuHan&hide=jupyter%20notebook&layout=compact&theme=dark"/>
+    <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=TaegyuHan&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+</p>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=TaegyuHan&theme=dark&show_icons=true&include_all_commits=true&count_private=true" style="float:left;"/>
