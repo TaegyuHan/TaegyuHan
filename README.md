@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&fontColor=D9D9D9&color=151515&height=200&section=header&text=TaeGyu's%20github&fontSize=40&fontAlign=70&fontAlignY=35&animation=fadeIn&rotate=12.5)
 
 
 <div class="stats_box" style="width:100%; box-sizing:border-box;">
