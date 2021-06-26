@@ -18,6 +18,9 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/></a><br>
 
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/><br>
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white"/></a>&#160;&#160;
