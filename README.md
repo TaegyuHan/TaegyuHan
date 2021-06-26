@@ -32,6 +32,6 @@
 
 <p align="left" width="100%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaegyuHan&hide=jupyter%20notebook&layout=compact&theme=dark"/>
-    <img width="43.5%" src="https://github-readme-stats.vercel.app/api?username=TaegyuHan&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img width="420px" src="https://github-readme-stats.vercel.app/api?username=TaegyuHan&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
 </p>
 
