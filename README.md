@@ -19,6 +19,7 @@
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a>
 
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&#160;&#160;
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-2B5B84?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
