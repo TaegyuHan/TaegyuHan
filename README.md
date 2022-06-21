@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=46D2A3&height=200&text=TaeGyu's%20Github&fontAlignY=35&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4AADB7&height=200&text=TaeGyu's%20Github&fontAlignY=35&fontSize=60)
 
 # Welcome to my github. :blush:
 
