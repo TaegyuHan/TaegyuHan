@@ -12,7 +12,7 @@
 </br>
 
 <p align="center">
-   <a target="_blank" href="https://periodic-phone-83f.notion.site/Tae-Gyu-d37ae25dd1f0479ca08f08c44a6c8277">
-      <h3 align="center">About me!! Go, Notion</h3>
+   <a target="_blank" href="">
+      <h3 align="center">[About me!! Go, Notion](https://periodic-phone-83f.notion.site/Tae-Gyu-d37ae25dd1f0479ca08f08c44a6c8277)</h3>
    </a>
 </p>
