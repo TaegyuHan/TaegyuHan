@@ -7,7 +7,10 @@
                                                     align="right"></a> 
 <a href="https://github.com/TaegyuHan"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TaegyuHan%2Fgjbae1212%2Fhit-counter&count_bg=%23151515&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" align="right"></a> 
 
+
+
+<div align="center">
 ### About me. 
 - I want to be a web developer. :wolf:
-- lawn gardener > 졸꾸!! :walking:
-
+- lawn gardener > 졸꾸!! :walking:  
+</div>
