@@ -11,10 +11,3 @@
 - I want to be a web developer. :wolf:
 - lawn gardener > 졸꾸!! :walking:
 
-### Github
-
-<p align="left" width="100%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaegyuHan&hide=jupyter%20notebook&layout=compact&theme=dark&card_width=370"/>
-    <img width="420px" src="https://github-readme-stats.vercel.app/api?username=TaegyuHan&theme=dark&show_icons=true&include_all_commits=true&count_private=truek"/>
-</p>
-
