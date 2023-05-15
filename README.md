@@ -9,8 +9,3 @@
 
 
 
-<div align="center">
-### About me. 
-- I want to be a web developer. :wolf:
-- lawn gardener > 졸꾸!! :walking:  
-</div>
