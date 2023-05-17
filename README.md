@@ -12,11 +12,11 @@
 </br>
 
 <div align="center">
-	I'm studying development of the back end
+	[About me!! Go, Notion](https://periodic-phone-83f.notion.site/Tae-Gyu-d37ae25dd1f0479ca08f08c44a6c8277)
 </div>
 
 </br>
 </br>
 </br>
 
-[About me!! Go, Notion](https://periodic-phone-83f.notion.site/Tae-Gyu-d37ae25dd1f0479ca08f08c44a6c8277)
+
