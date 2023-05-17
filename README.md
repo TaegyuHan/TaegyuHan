@@ -9,4 +9,4 @@
 
 
 
-[About me!! Go, Notion](https://periodic-phone-83f.notion.site/Tae-Gyu-d37ae25dd1f0479ca08f08c44a6c8277)
+[About me!! Go, Notion](https://periodic-phone-83f.notion.site/Han-Tae-Gyu-454f95bd36bc4b098607cec173e3e961)
